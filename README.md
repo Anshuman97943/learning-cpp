@@ -1,4 +1,5 @@
 # learning-cpp
 Auther - Anshuman
 <br>
-this is my 2 weak of coding
+This is my c language folder 
+
